@@ -342,7 +342,6 @@
                       <a href="./pages/services.html">Enable Directly</a>
                     </h3>
                     <p>Say, "Alexa, Enable American Band"</p>
-
                   </div>
                   <!-- .box-item -->
                 </div>
