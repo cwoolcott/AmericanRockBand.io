@@ -221,7 +221,7 @@
               {data: 'bandname'},
               {data: 'top_song_rating', type: 'numeric' }
           ],
-          
+        
           "language": {
               "emptyTable": "Missing Information...",
               'loadingRecords': '&nbsp;',
@@ -254,8 +254,6 @@
               'processing': 'Loading... '
           }
     });
-
-
 
 });
   </script>
