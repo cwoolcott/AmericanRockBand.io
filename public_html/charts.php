@@ -267,6 +267,9 @@
     $("#topTenChartMonthly").css("width", "100%");
     $("#topTenChartWeekly").css("width", "100%");
 
+
+    
+    setInterval(chartTableAll, 1000);
 });
   </script>
 
