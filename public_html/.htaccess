@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://americanband.io/$1 [R,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^charts$ charts.php [L]
+RewriteRule ^getstarted$ getstarted.php [L]
+RewriteRule ^marketplace$ marketplace.php [L]
+RewriteRule ^topbands$ topbands.php [L]
+RewriteRule ^404$ 404.php [L]

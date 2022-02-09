@@ -1,0 +1,320 @@
+# Webalizer V2.23-08 Incremental Data - 02/09/2022 00:32:57
+2022 2 9 0 32 57
+71 0 43 0 6 31 12137 57 46 0
+1 1 14 1 9
+8 0 1266 8 8 8
+4 0 852 3 2 2
+17 0 2968 11 15 12
+6 0 1258 4 5 4
+1 0 208 1 1 1
+2 0 416 2 2 2
+2 0 434 2 2 2
+30 0 4527 16 21 14
+1 0 208 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 0 832 4
+3 0 208 3
+1 0 208 1
+0 0 0 0
+4 0 416 4
+1 0 208 1
+3 0 634 2
+11 0 2135 7
+14 0 1778 8
+3 0 642 3
+2 0 434 2
+0 0 0 0
+0 0 0 0
+11 0 1684 9
+1 0 208 1
+2 0 416 2
+1 0 208 1
+1 0 208 1
+0 0 0 0
+2 0 416 2
+4 0 878 3
+1 0 208 1
+1 0 208 1
+1 0 208 1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+64
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+92.118.160.1
+0 1 0 208 1 1644102987
+-
+5-255-253-168.spider.yandex.com
+0 1 0 218 0 0
+-
+96.121.83.34.bc.googleusercontent.com
+0 3 0 0 1 1643896615
+-
+ipv4-64-246-161-190.greenhousedata.net
+0 2 0 426 1 1643834629
+-
+p150n20
+0 2 0 426 1 1643896629
+-
+ec2-18-206-55-48.compute-1.amazonaws.com
+0 4 0 416 1 1644294893
+-
+35.187.132.91
+0 3 0 208 2 1644307796
+-
+4.130.96.34.bc.googleusercontent.com
+0 1 0 208 1 1643982442
+-
+app-01.h.k39.us
+0 3 0 634 1 1643957516
+-
+165.227.171.224
+0 3 0 678 3 1644264025
+-
+92.118.160.41.netsystemsresearch.com
+0 1 0 208 1 1644108258
+-
+45-30-18-200.lightspeed.nsvltn.sbcglobal.net
+0 4 0 832 4 1643933071
+-
+103-14-143-67.ip.cis.gen.nz
+0 4 0 416 1 1644309107
+-
+5.162.77.34.bc.googleusercontent.com
+0 2 0 416 2 1644317360
+-
+14.162.77.34.bc.googleusercontent.com
+0 1 0 208 1 1643730712
+-
+67.40.43.214
+0 1 0 208 1 1643916151
+-
+cerebro-ldc-prod-102.kaspersky-labs.com
+0 1 0 208 1 1644307175
+-
+92.118.160.13.netsystemsresearch.com
+0 1 0 208 1 1644193048
+-
+static.150.77.88.23.clients.your-server.de
+0 1 0 208 1 1643742907
+-
+93.158.92.11
+0 1 0 208 1 1644306245
+-
+ns504339.ip-192-99-1.net
+0 1 0 208 1 1643896677
+-
+35.187.132.87
+0 5 0 703 2 1644307796
+-
+204.101.161.19
+0 1 0 208 1 1644311034
+-
+59.12.82.178
+0 1 0 0 1 1643679068
+-
+aip-137.trustwave.com
+0 1 0 208 1 1644305388
+-
+95-108-213-34.spider.yandex.com
+0 1 0 208 1 1643787131
+-
+93.158.91.250
+0 1 0 215 0 0
+-
+0.130.96.34.bc.googleusercontent.com
+0 1 0 208 1 1643683634
+-
+165.227.227.95
+0 1 0 208 1 1644341996
+-
+98.93.195.35.bc.googleusercontent.com
+0 1 0 226 1 1644313638
+-
+182.172.198.175
+0 1 0 226 1 1643921528
+-
+93.158.91.242
+0 1 0 218 0 0
+-
+65.154.226.165
+0 2 0 416 1 1644309045
+-
+21.130.96.34.bc.googleusercontent.com
+0 1 0 208 1 1644366777
+-
+92.118.160.9
+0 1 0 208 1 1643729850
+-
+ec2-54-225-103-109.compute-1.amazonaws.com
+0 1 0 208 1 1644111276
+-
+ec2-18-237-222-173.us-west-2.compute.amazonaws.com
+0 1 0 208 1 1643897189
+-
+dynamic-077-183-108-199.77.183.pool.telefonica.de
+0 1 0 208 1 1643951928
+-
+15.130.96.34.bc.googleusercontent.com
+0 1 0 208 1 1643926476
+-
+93.158.91.247
+0 1 0 218 0 0
+-
+softbank060129091024.bbtec.net
+0 1 0 0 1 1643679075
+-
+r-199-16-157-180.twttr.com
+0 3 0 634 1 1643896608
+-
+35.187.132.89
+0 2 0 243 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+21.130.96.34.bc.googleusercontent.com
+0 1 0 208 1 1644366777
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://americanband.io/
+0 2
+http://americanband.io
+0 6
+- (Direct Request)
+0 58
+http://www.bing.com
+0 1
+https://t.co/gHVseNY9id
+0 1
+https://t.co/5C9VUYMtBv
+0 3
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 1
+Twitterbot/1.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/E3DC85
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 2
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.0.6) Gecko/20060728 Firefox/52.0.2
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/79AB70
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 AppEngine
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .
+0 1
+LivelapBot/0.2 (http://site.livelap.com/crawler)
+0 1
+Mozilla/5.0 (compatible; Semanticbot/1.0; +http://sempi.tech/bot.html)
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/235222
+0 1
+AppEngine-Google; (+http://code.google.com/appengine; appid: s~virustotalcloud)
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:96.0) Gecko/20100101 Firefox/96.0
+0 2
+Mozilla/5.0 (Linux; Android 11; SM-F926U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Sa
+0 1
+python-requests/2.27.1
+0 1
+Expanse indexes the network perimeters of our customers. If you have any questions or concerns, please reach out to: scaninfo
+0 7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 1
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 4
+python-requests/2.18.4
+0 3
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

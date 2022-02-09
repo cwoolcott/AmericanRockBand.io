@@ -1,0 +1,685 @@
+Return-Path: <n00034a8114-20057f894ea74889-info===americanband.io@bounce.twitter.com>
+Delivered-To: info@americanband.io
+Received: from rcentral509.webserversystems.com
+	by rcentral509.webserversystems.com with LMTP id EON6HqyR3WEMLAUAeOnXsg
+	for <info@americanband.io>; Tue, 11 Jan 2022 08:18:20 -0600
+Return-path: <n00034a8114-20057f894ea74889-info===americanband.io@bounce.twitter.com>
+Envelope-to: info@americanband.io
+Delivery-date: Tue, 11 Jan 2022 08:18:20 -0600
+Received: from spruce-goose-bm.twitter.com ([199.59.150.108]:33005)
+	by rcentral509.webserversystems.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <n00034a8114-20057f894ea74889-info===americanband.io@bounce.twitter.com>)
+	id 1n7Hye-001UtX-0g
+	for info@americanband.io; Tue, 11 Jan 2022 08:18:20 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201406; t=1641910689;
+	bh=d1RMZC7xjEkyDAqn79IftlPbhaitV9AFhXESi72wkq0=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:
+	 Message-ID;
+	b=olFd1UkAyVOyz9owKvh3XWGcDFLxGOKTySCmPcoP5kSiMyR6ZAzWALYYqXd09sojm
+	 HuOqXv/6yyJqLV1+wDhjOKMbQhnP4abqkeVPAfpOkcZGLmzRQUhaKa71AJmcxhu4Vr
+	 PPRneyQ8yBzzgbjqSk3L2jxU5/71bkcvmGpIoljbTarf/BDHhuaCGCxYhMTWRb2VCj
+	 EWHadwKGOgklYkKshBT7RWyHkvgW15f063/+uttxEuFJLlHD3iZBRa2eHBNG2MVZAS
+	 hq6n0A2ppQFEEQBPI/J9pmL/8s7b3+FkuV35qF1SG4Y5rM3cCY5gbj6BfWlhgtE8Pf
+	 E9Mjf03nq8gUg==
+X-MSFBL: IncBSMlxAnjSW8pME4rZkbtXlloSCjqErGA+IdQ7HEc=|eyJiIjoic21mMS1jbXU
+	tMjAtc3IxLUNvbGQuMTk4IiwiciI6ImluZm9AYW1lcmljYW5iYW5kLmlvIiwiZyI
+	6IkNvbGQiLCJ1IjoiaW5mb0BhbWVyaWNhbmJhbmQuaW9AaWlkIyMyMDA1N2Y4OTR
+	lYTc0ODg5OTY4OTMxNDQwYjZhZGI3YUB1c2IjIzFAMjk2QDE0ODAwMjg4OTE4NzY
+	xNDMxMDVAMEAzNzZiYmMyMmEwMzA1OGY5OGQ1YzIyYzc2YmExMWQwMjQ0ZGRlMjU
+	1In0=
+Date: Tue, 11 Jan 2022 14:18:09 +0000
+From: Twitter <info@twitter.com>
+To: "AmericanBand.io" <info@americanband.io>
+Subject: =?UTF-8?Q?@AmericanbandIo,_you=E2=80=99re_in_control?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_61962955_1939582790.1641910689180"
+List-Unsubscribe: <https://twitter.com/i/u?t=1&listunsub=t&cn=Y29uc3VtZXJta3RnX2VtYWlsX25ld19udXhfc2FmZXR5X2VtYWls&sig=1e240231362ce84a855345fefbf65b98d1cfa3fd&iid=20057f894ea74889968931440b6adb7a&uid=1480028891876143105&nid=244+26&usbid=1>
+Precedence: Bulk
+X-Twitter-CID: ibis2-consumermktg_email_new_nux_safety_email
+Message-ID: <5D.06.05039.1A19DD16@twitter.com>
+Feedback-ID: smf1.77f4d788461fddffa845e00652a0f1a7:Twitter
+X-Spam-Status: No, score=0.4
+X-Spam-Score: 4
+X-Spam-Bar: /
+X-Spam-Flag: NO
+
+------=_Part_61962955_1939582790.1641910689180
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+=09=09PHT: Learn how to be safe on Twitter
+
+
+=09=09It=E2=80=99s your Twitter.
+
+
+=09=09Control your experience on Twitter.
+=09=09There are as many different kinds of conversations as there are peopl=
+e. With our safety tools, you=E2=80=99ll be able to control your experience=
+ on Twitter so you can only see and have the kinds of conversations you wan=
+t. Find out how to mute words you don=E2=80=99t want to see, block specific=
+ accounts, and report content that breaks our rules.
+=09=09=20
+=09=09See safety tools
+=09=09 <https://safety.twitter.com>
+=20
+
+=09=09Creating a safer place for conversations.
+=09=09When everyone feels safe to share their voice, great conversations ca=
+n happen. Learn more about our rules and how we enforce them.
+=09=09=20
+=09=09Learn about our rules
+=09=09<https://rules.twitter.com>
+
+
+
+=09=09=3D
+
+=09=09Help
+=09=09> https://support.twitter.com/
+
+=09=09Privacy
+=09=09> https://twitter.com/privacy
+
+=09=09Reset Password
+=09=09> https://twitter.com/account/begin_password_reset?account_identifier=
+=3DAmericanbandIo
+
+=09=09Download App
+=09=09> https://twitter.com/download
+
+
+=09=09We sent this to @AmericanbandIo. Unsubscribe
+=09=09> https://twitter.com/i/u?t=3D1&amp;cn=3DY29uc3VtZXJta3RnX2VtYWlsX25l=
+d19udXhfc2FmZXR5X2VtYWls&amp;sig=3D9d0f98251a2a60f549c0895b85c5151838001f0f=
+&amp;iid=3D20057f894ea74889968931440b6adb7a&amp;uid=3D1480028891876143105&a=
+mp;nid=3D244+26&amp;usbid=3D1
+
+=09=09=09Twitter, Inc. 1355 Market Street, Suite 900 San Francisco, CA 9410=
+3
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+------=_Part_61962955_1939582790.1641910689180
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/
+html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, minimum-scale=3D1.=
+0, maximum-scale=3D1.0, user-scalable=3D0" />
+<meta name=3D"apple-mobile-web-app-capable" content=3D"yes" />
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style type=3D"text/css">
+/* Windows 10 Mail Fix */
+a { text-decoration: none; }
+/* a:visited { color: #8899A6; text-decoration:none; } */
+.addressLink a { color: #8899A6 !important; text-decoration: none !importan=
+t; }
+/* Windows 10 Mail Fix End */
+@media only screen and (max-width: 500px) {
+.width_full {
+width: 100% !important;
+}
+.width_20 {
+width: 20px !important;
+}
+.width_24 {
+width: 24px !important;
+}
+#hide {
+display: none !important;
+}
+.hide {
+display: none !important;
+}
+.width_full {
+width: 100% !important;
+min-width: 360px !important;
+}
+.height_30 {
+height: 30px !important;
+}
+}
+</style>
+<style type=3D"text/css">
+u + #new-gmail-hack {
+display: block !important;
+}
+</style>
+</head>
+<body style=3D"margin:0px auto;padding:0px;-webkit-text-size-adjust:100%;-m=
+s-text-size-adjust:100%;">
+<img width=3D"1" height=3D"1" src=3D"https://twitter.com/scribe/ibis?t=3D1&=
+amp;cn=3DY29uc3VtZXJta3RnX2VtYWlsX25ld19udXhfc2FmZXR5X2VtYWls&amp;iid=3D200=
+57f894ea74889968931440b6adb7a&amp;uid=3D1480028891876143105&amp;nid=3D296+2=
+0" style=3D"margin:0px;padding:0px;display:inline-block;-ms-interpolation-m=
+ode:bicubic;border:none;outline:none;" />
+<style>
+.ios_blue a {
+color: #1DA1F2 !important;
+text-decoration: none;
+}
+</style>
+<!--[if (gte mso 9)|(IE)]>
+<style inline=3D"false">
+.ie_hide {
+display: none !important;
+}
+</style>
+<![endif]-->
+<div class=3D"preheader" style=3D"display:none;font-size:1px;color:#333333;=
+line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+Learn how to be safe on Twitter
+</div>
+<div class=3D"preheader" style=3D"display:none;font-size:1px;color:#333333;=
+line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C=
+&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;=E2=80=8C&nbsp;
+</div>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgco=
+lor=3D"#ffffff" class=3D"wrapper" style=3D"padding:0px;line-height:1px;font=
+-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty" width=3D"100%" align=3D"center" style=3D"padding:0px;ma=
+rgin:0px auto;font-size:0px;line-height:1px;padding:0px;">
+<!-- BODY START -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#F5F8FA" width=3D"100%" class=3D"width_full" dir=3D"ltr" style=3D"=
+padding:0px;line-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;font-size:0px;line=
+-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#ffffff" width=3D"640" class=3D"width_full" style=3D"padding:0px;l=
+ine-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"image empty" colspan=3D"3" style=3D"padding:0px;margin:0px aut=
+o;font-size:0px;line-height:1px;padding:0px;font-size:0px;line-height:100%;=
+padding:0px;mso-line-height-rule:exactly;"> <a href=3D"https://twitter.com/=
+i/redirect?url=3Dhttps%3A%2F%2Fsafety.twitter.com&amp;t=3D1&amp;cn=3DY29uc3=
+VtZXJta3RnX2VtYWlsX25ld19udXhfc2FmZXR5X2VtYWls&amp;sig=3D57c854d3e05b78ba6a=
+1cb20e4fa5ac03e27a93a8&amp;iid=3D20057f894ea74889968931440b6adb7a&amp;uid=
+=3D1480028891876143105&amp;nid=3D296+3" style=3D"text-decoration:none;borde=
+r-style:none;border:0px;padding:0px;margin:0px;color:#1DA1F2;text-decoratio=
+n:none;">
+<!--[if !gte mso 9]><!----> <img src=3D"https://ea.twimg.com/self_serve/med=
+ia/nux_howtobesafe_en-1578589211004.gif" width=3D"640" alt=3D"Twitter" titl=
+e=3D"Twitter" class=3D"width_full" style=3D"margin:0px;padding:0px;display:=
+inline-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" />
+<!--<![endif]-->
+<!--[if mso]>                              <img src=3D"https://ea.twimg.com=
+/self_serve/media/nux_howtobesafe_en-1578589903197.jpg" width=3D"640" alt=
+=3D"Twitter" title=3D"Twitter" class=3D"width_full" />
+<![endif]--> </a> </td>
+</tr>
+<tr>
+<td class=3D"empty" width=3D"24" style=3D"min-width: 24px;padding:0px;margi=
+n:0px auto;font-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;font-size:0px;line=
+-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" di=
+r=3D"ltr" style=3D"padding:0px;line-height:1px;font-size:1px;margin:0px aut=
+o;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"title black" align=3D"center" style=3D"padding:0px;margin:0px =
+auto;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webk=
+it-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-size:28px;=
+padding:0px;margin:0px;font-weight:bold;line-height:1.5em;"> It=E2=80=99s y=
+our Twitter. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"36" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;font-size:0px;line=
+-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" st=
+yle=3D"padding:0px;line-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"body black" align=3D"center" valign=3D"middle" dir=3D"ltr" sty=
+le=3D"padding:0px;margin:0px auto;font-family:'Helvetica Neue Light', Helve=
+tica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webkit-text-siz=
+e-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:normal;line=
+-height:1.5em;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-se=
+rif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-s=
+ize:16px;padding:0px;margin:0px;font-weight:normal;line-height:1.5em;"> <st=
+rong>Control your experience on Twitter.</strong> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;font-size:0px;line=
+-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" wi=
+dth=3D"480" class=3D"width_full" style=3D"padding:0px;line-height:1px;font-=
+size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"body black" align=3D"center" dir=3D"ltr" style=3D"padding:0px;=
+margin:0px auto;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-=
+serif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;font=
+-size:16px;padding:0px;margin:0px;font-weight:normal;line-height:1.5em;font=
+-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-s=
+moothing:antialiased;-webkit-text-size-adjust:none;font-size:16px;padding:0=
+px;margin:0px;font-weight:normal;line-height:1.5em;"> There are as many dif=
+ferent kinds of conversations as there are people. With our safety tools, y=
+ou=E2=80=99ll be able to control your experience on Twitter so you can only=
+ see and have the kinds of conversations you want. Find out how to mute wor=
+ds you don=E2=80=99t want to see, block specific accounts, and report conte=
+nt that breaks our rules. </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"25" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"empty" align=3D"center" style=3D"padding:0px;margin:0px auto;f=
+ont-size:0px;line-height:1px;padding:0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"padding:0px;line-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"button center" bgcolor=3D"#1DA1F2" dir=3D"ltr=
+" style=3D"padding:0px;margin:0px auto;text-align:center;margin:auto;-webki=
+t-border-radius:25x;-moz-border-radius:25px;border-radius:25px;line-height:=
+18px;"> <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Fsafet=
+y.twitter.com&amp;t=3D1&amp;cn=3DY29uc3VtZXJta3RnX2VtYWlsX25ld19udXhfc2FmZX=
+R5X2VtYWls&amp;sig=3D04443b4b6f957460b4e42d2cf7e70d91805bedec&amp;iid=3D200=
+57f894ea74889968931440b6adb7a&amp;uid=3D1480028891876143105&amp;nid=3D296+4=
+" target=3D"_blank" class=3D"button" style=3D"text-decoration:none;border-s=
+tyle:none;border:0px;padding:0px;margin:0px;color:#1DA1F2;text-decoration:n=
+one;font-size:16px;font-family:'HelveticaNeue', 'Helvetica Neue', Helvetica=
+, Arial, sans-serif;color:#ffffff;text-decoration:none;-webkit-border-radiu=
+s:25px;-moz-border-radius:25px;border-radius:25px;padding:8px 16px;border:1=
+px solid #1DA1F2;display:inline-block;font-weight:bold;-webkit-font-smoothi=
+ng:antialiased;">
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> See safety tools
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"45" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;font-size:0px;line=
+-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" st=
+yle=3D"padding:0px;line-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"body black" align=3D"center" valign=3D"middle" dir=3D"ltr" sty=
+le=3D"padding:0px;margin:0px auto;font-family:'Helvetica Neue Light', Helve=
+tica, Arial, sans-serif;-webkit-font-smoothing:antialiased;-webkit-text-siz=
+e-adjust:none;font-size:16px;padding:0px;margin:0px;font-weight:normal;line=
+-height:1.5em;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-se=
+rif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-s=
+ize:16px;padding:0px;margin:0px;font-weight:normal;line-height:1.5em;"> <st=
+rong>Creating a safer place for conversations.</strong> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;font-size:0px;line=
+-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" wi=
+dth=3D"480" class=3D"width_full" style=3D"padding:0px;line-height:1px;font-=
+size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"body black" align=3D"center" dir=3D"ltr" style=3D"padding:0px;=
+margin:0px auto;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-=
+serif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;font=
+-size:16px;padding:0px;margin:0px;font-weight:normal;line-height:1.5em;font=
+-family:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-s=
+moothing:antialiased;-webkit-text-size-adjust:none;font-size:16px;padding:0=
+px;margin:0px;font-weight:normal;line-height:1.5em;"> When everyone feels s=
+afe to share their voice, great conversations can happen. Learn more about =
+our rules and how we enforce them. </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"25" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"empty" align=3D"center" style=3D"padding:0px;margin:0px auto;f=
+ont-size:0px;line-height:1px;padding:0px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"padding:0px;line-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"button center" bgcolor=3D"#1DA1F2" dir=3D"ltr=
+" style=3D"padding:0px;margin:0px auto;text-align:center;margin:auto;-webki=
+t-border-radius:25x;-moz-border-radius:25px;border-radius:25px;line-height:=
+18px;"> <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Frules=
+.twitter.com&amp;t=3D1&amp;cn=3DY29uc3VtZXJta3RnX2VtYWlsX25ld19udXhfc2FmZXR=
+5X2VtYWls&amp;sig=3Dab43bd4dffb5b73f0a983585f0fadf24fd7724ea&amp;iid=3D2005=
+7f894ea74889968931440b6adb7a&amp;uid=3D1480028891876143105&amp;nid=3D296+4"=
+ target=3D"_blank" class=3D"button" style=3D"text-decoration:none;border-st=
+yle:none;border:0px;padding:0px;margin:0px;color:#1DA1F2;text-decoration:no=
+ne;font-size:16px;font-family:'HelveticaNeue', 'Helvetica Neue', Helvetica,=
+ Arial, sans-serif;color:#ffffff;text-decoration:none;-webkit-border-radius=
+:25px;-moz-border-radius:25px;border-radius:25px;padding:8px 16px;border:1p=
+x solid #1DA1F2;display:inline-block;font-weight:bold;-webkit-font-smoothin=
+g:antialiased;">
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> Learn about our rules
+<!--[if gte mso 11]>&nbsp; &nbsp; &nbsp;<![endif]--> </a> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"70" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+</tbody>
+</table> </td>
+<td class=3D"empty" width=3D"24" style=3D"min-width: 24px;padding:0px;margi=
+n:0px auto;font-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+</tbody>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" wi=
+dth=3D"640" class=3D"width_full" bgcolor=3D"#ebebeb" style=3D"padding:0px;l=
+ine-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;font-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;font-size:0px;line=
+-height:1px;padding:0px;">
+<table align=3D"center" dir=3D"ltr" style=3D"padding:0px;line-height:1px;fo=
+nt-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"28" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"body_2 footer_grey" align=3D"center" style=3D"padding:0px;marg=
+in:0px auto;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-seri=
+f;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-siz=
+e:14px;padding:0px;margin:0px;font-weight:normal;line-height:1.5em;font-fam=
+ily:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoot=
+hing:antialiased;-webkit-text-size-adjust:none;font-size:14px;padding:0px;m=
+argin:0px;font-weight:bold;line-height:1.5em;color:#8899a6;"> Still have qu=
+estions? Visit our <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A=
+%2F%2Fhelp.twitter.com&amp;t=3D1&amp;cn=3DY29uc3VtZXJta3RnX2VtYWlsX25ld19ud=
+Xhfc2FmZXR5X2VtYWls&amp;sig=3D34a16b2239521f8cc1cccec8c736aaeb9f9b5b38&amp;=
+iid=3D20057f894ea74889968931440b6adb7a&amp;uid=3D1480028891876143105&amp;ni=
+d=3D296+1" class=3D"blue" style=3D"text-decoration:none;border-style:none;b=
+order:0px;padding:0px;margin:0px;color:#1DA1F2;color:#1DA1F2;text-decoratio=
+n:none;">Help Center</a>. Learn all the Twitter lingo in our <a href=3D"htt=
+ps://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Fhelp.twitter.com%2Fglossary=
+&amp;t=3D1&amp;cn=3DY29uc3VtZXJta3RnX2VtYWlsX25ld19udXhfc2FmZXR5X2VtYWls&am=
+p;sig=3Dc4880c85a24bcf7632b1bce78f3a29ccb37a790d&amp;iid=3D20057f894ea74889=
+968931440b6adb7a&amp;uid=3D1480028891876143105&amp;nid=3D296+2" class=3D"bl=
+ue" style=3D"text-decoration:none;border-style:none;border:0px;padding:0px;=
+margin:0px;color:#1DA1F2;color:#1DA1F2;text-decoration:none;">Glossary</a>.=
+ </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"28" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"footer strong deep_grey center" align=3D"center" dir=3D"ltr" s=
+tyle=3D"padding:0px;margin:0px auto;color:#657786;font-family:'Helvetica Ne=
+ue Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;=
+-webkit-text-size-adjust:none;font-size:12px;padding:0px;margin:0px;font-we=
+ight:normal;line-height:1.5em;font-weight:bold;text-align:center;margin:aut=
+o;"> <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Fsupport.=
+twitter.com%2F&amp;t=3D1&amp;cn=3DY29uc3VtZXJta3RnX2VtYWlsX25ld19udXhfc2FmZ=
+XR5X2VtYWls&amp;sig=3D9af392e789f530fe1f6db2d245255aabc9279101&amp;iid=3D20=
+057f894ea74889968931440b6adb7a&amp;uid=3D1480028891876143105&amp;nid=3D296+=
+7" class=3D"footer_grey" style=3D"text-decoration:none;border-style:none;bo=
+rder:0px;padding:0px;margin:0px;color:#1DA1F2;text-decoration:none;color:#8=
+899a6;"> Help </a> &nbsp;|&nbsp; <a href=3D"https://twitter.com/i/redirect?=
+url=3Dhttps%3A%2F%2Ftwitter.com%2Fen%2Fprivacy&amp;t=3D1&amp;cn=3DY29uc3VtZ=
+XJta3RnX2VtYWlsX25ld19udXhfc2FmZXR5X2VtYWls&amp;sig=3De6a28a06df83cc603d3ed=
+ae62cc3dcdcaf0243fe&amp;iid=3D20057f894ea74889968931440b6adb7a&amp;uid=3D14=
+80028891876143105&amp;nid=3D296+8" class=3D"footer_grey" style=3D"text-deco=
+ration:none;border-style:none;border:0px;padding:0px;margin:0px;color:#1DA1=
+F2;text-decoration:none;color:#8899a6;"> Privacy </a> &nbsp;|&nbsp; <a href=
+=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Faccoun=
+t%2Fbegin_password_reset%3Faccount_identifier%3DAmericanbandIo&amp;t=3D1&am=
+p;cn=3DY29uc3VtZXJta3RnX2VtYWlsX25ld19udXhfc2FmZXR5X2VtYWls&amp;sig=3Dd6d4d=
+b8dca97b6dd44e92ec061b2278bdc03a59e&amp;iid=3D20057f894ea74889968931440b6ad=
+b7a&amp;uid=3D1480028891876143105&amp;nid=3D296+9" class=3D"footer_grey now=
+rap" style=3D"text-decoration:none;border-style:none;border:0px;padding:0px=
+;margin:0px;white-space:nowrap;color:#1DA1F2;text-decoration:none;color:#88=
+99a6;"> Reset Password </a> &nbsp;|&nbsp; <a href=3D"https://twitter.com/i/=
+redirect?url=3Dhttps%3A%2F%2Ftwitter.com%2Fdownload&amp;t=3D1&amp;cn=3DY29u=
+c3VtZXJta3RnX2VtYWlsX25ld19udXhfc2FmZXR5X2VtYWls&amp;sig=3D211752b7c3786ab9=
+150d2529999ac5bd9ec96dcb&amp;iid=3D20057f894ea74889968931440b6adb7a&amp;uid=
+=3D1480028891876143105&amp;nid=3D296+10" class=3D"footer_grey nowrap" style=
+=3D"text-decoration:none;border-style:none;border:0px;padding:0px;margin:0p=
+x;white-space:nowrap;color:#1DA1F2;text-decoration:none;color:#8899a6;"> Do=
+wnload App </a> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"5" style=3D"padding:0px;margin:0px auto;font-=
+size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"footer footer_grey center" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;font-family:'Helvetica Neue Light', Helvetica, Arial, sa=
+ns-serif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;f=
+ont-size:12px;padding:0px;margin:0px;font-weight:normal;line-height:1.5em;t=
+ext-align:center;margin:auto;color:#8899a6;"> This email was generated for =
+@AmericanbandIo. <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2=
+F%2Ftwitter.com%2Fi%2Fu%3Ft%3D1%26amp%3Bcn%3DY29uc3VtZXJta3RnX2VtYWlsX25ld1=
+9udXhfc2FmZXR5X2VtYWls%26amp%3Bsig%3D9d0f98251a2a60f549c0895b85c5151838001f=
+0f%26amp%3Biid%3D20057f894ea74889968931440b6adb7a%26amp%3Buid%3D14800288918=
+76143105%26amp%3Bnid%3D244%2B26%26amp%3Busbid%3D1&amp;t=3D1&amp;cn=3DY29uc3=
+VtZXJta3RnX2VtYWlsX25ld19udXhfc2FmZXR5X2VtYWls&amp;sig=3Def8be0ec0890d72154=
+ed9dd4153b8d52a9fd51eb&amp;iid=3D20057f894ea74889968931440b6adb7a&amp;uid=
+=3D1480028891876143105&amp;nid=3D296+11" class=3D"footer_grey" style=3D"tex=
+t-decoration:none;border-style:none;border:0px;padding:0px;margin:0px;color=
+:#1DA1F2;text-decoration:none;color:#8899a6;">Unsubscribe</a> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"5" style=3D"padding:0px;margin:0px auto;font-=
+size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"footer footer_grey center" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;font-family:'Helvetica Neue Light', Helvetica, Arial, sa=
+ns-serif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;f=
+ont-size:12px;padding:0px;margin:0px;font-weight:normal;line-height:1.5em;t=
+ext-align:center;margin:auto;color:#8899a6;"> <span class=3D"addressLink"> =
+<a href=3D"http://twitter.com" style=3D"color: #8899a6 !important; text-dec=
+oration: none !important;text-decoration:none;border-style:none;border:0px;=
+padding:0px;margin:0px;color:#1DA1F2;text-decoration:none;"><span style=3D"=
+color: #8899a6 !important; text-decoration: none !important;">Twitter, Inc.=
+ 1355 Market Street, Suite 900 San&nbsp;Francisco,&nbsp;CA&nbsp;94103</span=
+></a> </span> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"50" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+</tbody>
+</table> </td>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;font-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr class=3D"hide">
+<td class=3D"empty hide" height=3D"32" style=3D"padding:0px;margin:0px auto=
+;font-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+</tbody>
+</table>
+<!-- BODY END --> </td>
+</tr>
+<tr>
+<td class=3D"fix_gmail_ios" id=3D"hide" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;color:#ffffff;font-family:Arial, sans-serif;font-size:14=
+px;"> =E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=
+=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=
+=80=94=E2=80=94=E2=80=94=E2=80=94 </td>
+</tr>
+<tr>
+<td class=3D"fix_gmail_android" id=3D"hide" align=3D"center" style=3D"paddi=
+ng:0px;margin:0px auto;">
+<table align=3D"center" style=3D"padding:0px;line-height:1px;font-size:1px;=
+margin:0px auto;">
+<tbody>
+<tr>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;"> <img=
+ src=3D"https://ea.twimg.com/email/self_serve/media/spacer-1476918453497.pn=
+g" height=3D"1" width=3D"130" style=3D"margin:0px;padding:0px;display:inlin=
+e-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;"> <img=
+ src=3D"https://ea.twimg.com/email/self_serve/media/spacer-1476918453497.pn=
+g" height=3D"1" width=3D"130" style=3D"margin:0px;padding:0px;display:inlin=
+e-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;"> <img=
+ src=3D"https://ea.twimg.com/email/self_serve/media/spacer-1476918453497.pn=
+g" height=3D"1" width=3D"130" style=3D"margin:0px;padding:0px;display:inlin=
+e-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;"> <img=
+ src=3D"https://ea.twimg.com/email/self_serve/media/spacer-1476918453497.pn=
+g" height=3D"1" width=3D"130" style=3D"margin:0px;padding:0px;display:inlin=
+e-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;"> <img=
+ src=3D"https://ea.twimg.com/email/self_serve/media/spacer-1476918453497.pn=
+g" height=3D"1" width=3D"130" style=3D"margin:0px;padding:0px;display:inlin=
+e-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<section>
+<div id=3D"new-gmail-hack" style=3D"white-space: nowrap; font: 15px courier=
+; line-height: 0; display: none;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+</section>
+</body>
+</html>
+------=_Part_61962955_1939582790.1641910689180--

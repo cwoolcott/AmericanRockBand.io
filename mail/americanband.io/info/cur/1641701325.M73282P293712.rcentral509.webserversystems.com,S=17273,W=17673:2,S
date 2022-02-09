@@ -1,0 +1,400 @@
+Return-Path: <b00019f0afainfo=americanband.io@bounce.twitter.com>
+Delivered-To: info@americanband.io
+Received: from rcentral509.webserversystems.com
+	by rcentral509.webserversystems.com with LMTP id WKVOBM1f2mFQewQAeOnXsg
+	for <info@americanband.io>; Sat, 08 Jan 2022 22:08:45 -0600
+Return-path: <b00019f0afainfo=americanband.io@bounce.twitter.com>
+Envelope-to: info@americanband.io
+Delivery-date: Sat, 08 Jan 2022 22:08:45 -0600
+Received: from spring-chicken-cd.twitter.com ([199.16.156.138]:47937)
+	by rcentral509.webserversystems.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <b00019f0afainfo=americanband.io@bounce.twitter.com>)
+	id 1n6PVc-001Edn-RS
+	for info@americanband.io; Sat, 08 Jan 2022 22:08:45 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201406; t=1641701314;
+	bh=Fzn/4oqJAwjLdcgsCrlxHHkE2AE76U96dYeDO6CHvB8=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:Message-ID;
+	b=a2X/MwO3o74hrMFl4aysg0toKggXbO1Q4ryjG/7IoE3GsifF96pHyxjzJIEibXxYX
+	 v5UK82xv9D5EBPy6Xj7qgUnH84qZy7Bx9zd/y/uEnzJo7sXrQo+n+bEkpGhlPhYghy
+	 07Sq+OcnthU1d4JCj5ybVrWssbCMOr2Gt3Z3fQTA/VmVq9RBaj8b69gq59tmRGXdsS
+	 waHXwUDEDjkcUSdrI6LTSSCc6zT05yYH72T/pC9qXZe/rRDCAYX0gSrgWnHocfHtKG
+	 OBeLVD//uZwjwiOcc3D9u4x48hcw/0j/2EAzPL1vxmdvPFs7uBrz//037c61tV5LH+
+	 5Xa0NSXdkKuKA==
+X-MSFBL: sTaF84UAhsDOFoFYtfkNrMYOq66aP5milvOzQ/TnbtA=|eyJ1IjoiaW5mb0BhbWV
+	yaWNhbmJhbmQuaW9AaWlkIyM3MzdjN2IyNDUzOTc0MzM1YjE5MGEzNzVkMzY1YjU
+	xM0B1c2IjIzI0QDI5NkAxMDQ0MzE1MTk5ODc5MjI5NDQxQDBAM2Q5NzAwZmQyMGE
+	0OGUyODUwNjMwNjAxMjk2NGEwMDNjZDBmNjhlYSIsImIiOiJhdGxhLWJzZy0yOS1
+	zcjEtQ3JpdGljYWwuMjE1IiwiciI6ImluZm9AYW1lcmljYW5iYW5kLmlvIiwiZyI
+	6IkNyaXRpY2FsIn0=
+Date: Sun, 09 Jan 2022 04:08:34 +0000
+From: Twitter <verify@twitter.com>
+To: Twitter User <info@americanband.io>
+Subject: 331760 is your Twitter verification code
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_26474176_1808069506.1641701314289"
+X-Twitter-CID: ibis2-onboarding_verify_email
+Message-ID: <71.80.03940.2CF5AD16@twitter.com>
+Feedback-ID: atla.13f9a67a36b247d1c6f2fbe65f621b66:Twitter
+X-Spam-Status: No, score=3.2
+X-Spam-Score: 32
+X-Spam-Bar: +++
+X-Spam-Flag: NO
+
+------=_Part_26474176_1808069506.1641701314289
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Twitter
+
+Confirm your email address
+
+There=E2=80=99s one quick step you need to complete before creating your Tw=
+itter account. Let=E2=80=99s make sure this is the right email address for =
+you =E2=80=94 please confirm this is the right address to use for your new =
+account.
+
+Please enter this verification code to get started on Twitter:
+
+331760
+
+Verification codes expire after two hours.
+
+Thanks,
+Twitter
+
+------=_Part_26474176_1808069506.1641701314289
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/
+html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, minimum-scale=3D1.=
+0, maximum-scale=3D1.0, user-scalable=3D0" />
+<meta name=3D"apple-mobile-web-app-capable" content=3D"yes" />
+<!--[if gte mso 9]><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><![endif]-->
+<style type=3D"text/css">
+/* Windows 10 Mail Fix */
+a { text-decoration: none; }
+/* a:visited { color: #8899A6; text-decoration:none; } */
+.addressLink a { color: #8899A6 !important; text-decoration: none !importan=
+t; }
+/* Windows 10 Mail Fix End */
+@media only screen and (max-width: 500px) {
+.width_full {
+width: 100% !important;
+}
+.width_20 {
+width: 20px !important;
+}
+.width_24 {
+width: 24px !important;
+}
+#hide {
+display: none !important;
+}
+.hide {
+display: none !important;
+}
+.width_full {
+width: 100% !important;
+min-width: 360px !important;
+}
+.height_30 {
+height: 30px !important;
+}
+}
+</style>
+<style type=3D"text/css">
+u + #new-gmail-hack {
+display: block !important;
+}
+</style>
+</head>
+<body style=3D"margin:0px auto;padding:0px;-webkit-text-size-adjust:100%;-m=
+s-text-size-adjust:100%;">
+<img width=3D"1" height=3D"1" src=3D"https://twitter.com/scribe/ibis?t=3D1&=
+amp;cn=3Db25ib2FyZGluZ192ZXJpZnlfZW1haWw%3D&amp;iid=3D737c7b2453974335b190a=
+375d365b513&amp;uid=3D1044315199879229441&amp;nid=3D296+20" style=3D"margin=
+:0px;padding:0px;display:inline-block;-ms-interpolation-mode:bicubic;border=
+:none;outline:none;" />
+<style>
+.ios_blue a {
+color: #1DA1F2 !important;
+text-decoration: none;
+}
+</style>
+<!--[if (gte mso 9)|(IE)]>
+<style inline=3D"false">
+.ie_hide {
+display: none !important;
+}
+</style>
+<![endif]-->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgco=
+lor=3D"#ffffff" class=3D"wrapper" style=3D"padding:0px;line-height:1px;font=
+-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty" width=3D"100%" align=3D"center" style=3D"padding:0px;ma=
+rgin:0px auto;font-size:0px;line-height:1px;padding:0px;">
+<!-- BODY START -->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#F5F8FA" width=3D"100%" class=3D"width_full" dir=3D"ltr" style=3D"=
+padding:0px;line-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;font-size:0px;line=
+-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" bg=
+color=3D"#ffffff" width=3D"450" class=3D"width_full" style=3D"padding:0px;l=
+ine-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;font-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;font-size:0px;line=
+-height:1px;padding:0px;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" di=
+r=3D"ltr" style=3D"padding:0px;line-height:1px;font-size:1px;margin:0px aut=
+o;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"image empty" align=3D"right" style=3D"padding:0px;margin:0px a=
+uto;font-size:0px;line-height:1px;padding:0px;font-size:0px;line-height:100=
+%;padding:0px;mso-line-height-rule:exactly;"> <a href=3D"https://twitter.co=
+m/i/redirect?url=3Dhttps%3A%2F%2Ftwitter.com&amp;t=3D1&amp;cn=3Db25ib2FyZGl=
+uZ192ZXJpZnlfZW1haWw%3D&amp;sig=3De1096b47fdfaaeade2612afad489273c3da37e91&=
+amp;iid=3D737c7b2453974335b190a375d365b513&amp;uid=3D1044315199879229441&am=
+p;nid=3D296+1" style=3D"text-decoration:none;border-style:none;border:0px;p=
+adding:0px;margin:0px;color:#1DA1F2;text-decoration:none;"> <img src=3D"htt=
+ps://ea.twimg.com/email/self_serve/media/icon_twitter_blue.png" width=3D"32=
+" alt=3D"Twitter" title=3D"Twitter" style=3D"margin:0px;padding:0px;display=
+:inline-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> =
+</a> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"h2 black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;marg=
+in:0px auto;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-web=
+kit-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-size:24px=
+;padding:0px;margin:0px;font-weight:bold;line-height:32px;"> Confirm your e=
+mail address </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"body black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;ma=
+rgin:0px auto;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-se=
+rif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-s=
+ize:16px;padding:0px;margin:0px;font-weight:normal;line-height:20px;font-fa=
+mily:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoo=
+thing:antialiased;-webkit-text-size-adjust:none;font-size:16px;padding:0px;=
+margin:0px;font-weight:normal;line-height:22px;"> There=E2=80=99s one quick=
+ step you need to complete before creating your Twitter account. Let=E2=80=
+=99s make sure this is the right email address for you =E2=80=94 please con=
+firm this is the right address to use for your new account. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"body black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;ma=
+rgin:0px auto;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-se=
+rif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-s=
+ize:16px;padding:0px;margin:0px;font-weight:normal;line-height:20px;font-fa=
+mily:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoo=
+thing:antialiased;-webkit-text-size-adjust:none;font-size:16px;padding:0px;=
+margin:0px;font-weight:normal;line-height:22px;"> Please enter this verific=
+ation code to get started on Twitter: </td>
+</tr>
+<tr>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;font-size:0px;line=
+-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"h1 black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;marg=
+in:0px auto;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;-web=
+kit-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-size:32px=
+;padding:0px;margin:0px;font-weight:bold;line-height:36px;"> 331760 </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"6" style=3D"padding:0px;margin:0px auto;font-=
+size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"body_2 black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;=
+margin:0px auto;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-=
+serif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;font=
+-size:14px;padding:0px;margin:0px;font-weight:normal;line-height:18px;"> Ve=
+rification codes expire after two hours. </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"24" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"body black" align=3D"left" dir=3D"ltr" style=3D"padding:0px;ma=
+rgin:0px auto;font-family:'Helvetica Neue Light', Helvetica, Arial, sans-se=
+rif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;font-s=
+ize:16px;padding:0px;margin:0px;font-weight:normal;line-height:20px;font-fa=
+mily:'Helvetica Neue Light', Helvetica, Arial, sans-serif;-webkit-font-smoo=
+thing:antialiased;-webkit-text-size-adjust:none;font-size:16px;padding:0px;=
+margin:0px;font-weight:normal;line-height:22px;"> Thanks,<br /> Twitter </t=
+d>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"32" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+</tbody>
+</table> </td>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;font-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+</tbody>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" wi=
+dth=3D"450" class=3D"width_full" bgcolor=3D"#ffffff" style=3D"padding:0px;l=
+ine-height:1px;font-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;font-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+<td class=3D"empty" style=3D"padding:0px;margin:0px auto;font-size:0px;line=
+-height:1px;padding:0px;">
+<table align=3D"center" dir=3D"ltr" style=3D"padding:0px;line-height:1px;fo=
+nt-size:1px;margin:0px auto;">
+<tbody>
+<tr>
+<td class=3D"empty" height=3D"48" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"footer strong deep_grey center" align=3D"center" dir=3D"ltr" s=
+tyle=3D"padding:0px;margin:0px auto;color:#657786;font-family:'Helvetica Ne=
+ue Light', Helvetica, Arial, sans-serif;-webkit-font-smoothing:antialiased;=
+-webkit-text-size-adjust:none;font-size:12px;padding:0px;margin:0px;font-we=
+ight:normal;line-height:16px;font-weight:bold;text-align:center;margin:auto=
+;"> <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2Fsupport.t=
+witter.com%2F&amp;t=3D1&amp;cn=3Db25ib2FyZGluZ192ZXJpZnlfZW1haWw%3D&amp;sig=
+=3Dba05bb345d85ed8103248db3b54b40c381636f6f&amp;iid=3D737c7b2453974335b190a=
+375d365b513&amp;uid=3D1044315199879229441&amp;nid=3D296+3" class=3D"footer_=
+grey" style=3D"text-decoration:none;border-style:none;border:0px;padding:0p=
+x;margin:0px;color:#1DA1F2;text-decoration:none;color:#8899a6;"> Help </a> =
+&nbsp;|&nbsp; <a href=3D"https://twitter.com/i/redirect?url=3Dhttps%3A%2F%2=
+Fsupport.twitter.com%2Farticles%2F204820-fake-twitter-emails&amp;t=3D1&amp;=
+cn=3Db25ib2FyZGluZ192ZXJpZnlfZW1haWw%3D&amp;sig=3D3c1a06a96676152cfe187cbb4=
+80aab9746af41a7&amp;iid=3D737c7b2453974335b190a375d365b513&amp;uid=3D104431=
+5199879229441&amp;nid=3D296+4" class=3D"footer_grey nowrap" style=3D"text-d=
+ecoration:none;border-style:none;border:0px;padding:0px;margin:0px;white-sp=
+ace:nowrap;color:#1DA1F2;text-decoration:none;color:#8899a6;"> Email securi=
+ty tips </a> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"12" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+<tr>
+<td class=3D"footer footer_grey center" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;font-family:'Helvetica Neue Light', Helvetica, Arial, sa=
+ns-serif;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:none;f=
+ont-size:12px;padding:0px;margin:0px;font-weight:normal;line-height:16px;te=
+xt-align:center;margin:auto;color:#8899a6;"> <span class=3D"addressLink">Tw=
+itter, =EF=BB=BFInc. =EF=BB=BF1355 =EF=BB=BFMarket =EF=BB=BFStreet, =EF=BB=
+=BFSuite =EF=BB=BF900 =EF=BB=BFSan&nbsp;Francisco,&nbsp;CA&nbsp;94103</span=
+> </td>
+</tr>
+<tr>
+<td class=3D"empty" height=3D"50" style=3D"padding:0px;margin:0px auto;font=
+-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+</tbody>
+</table> </td>
+<td class=3D"empty width_20" width=3D"24" style=3D"padding:0px;margin:0px a=
+uto;font-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr class=3D"hide">
+<td class=3D"empty hide" height=3D"32" style=3D"padding:0px;margin:0px auto=
+;font-size:0px;line-height:1px;padding:0px;"> &nbsp; </td>
+</tr>
+</tbody>
+</table>
+<!-- BODY END --> </td>
+</tr>
+<tr>
+<td class=3D"fix_gmail_ios" id=3D"hide" align=3D"center" style=3D"padding:0=
+px;margin:0px auto;color:#ffffff;font-family:Arial, sans-serif;font-size:14=
+px;"> =E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=
+=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=
+=80=94=E2=80=94=E2=80=94=E2=80=94 </td>
+</tr>
+<tr>
+<td class=3D"fix_gmail_android" id=3D"hide" align=3D"center" style=3D"paddi=
+ng:0px;margin:0px auto;">
+<table align=3D"center" style=3D"padding:0px;line-height:1px;font-size:1px;=
+margin:0px auto;">
+<tbody>
+<tr>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;"> <img=
+ src=3D"https://ea.twimg.com/email/self_serve/media/spacer-1476918453497.pn=
+g" height=3D"1" width=3D"130" style=3D"margin:0px;padding:0px;display:inlin=
+e-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;"> <img=
+ src=3D"https://ea.twimg.com/email/self_serve/media/spacer-1476918453497.pn=
+g" height=3D"1" width=3D"130" style=3D"margin:0px;padding:0px;display:inlin=
+e-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;"> <img=
+ src=3D"https://ea.twimg.com/email/self_serve/media/spacer-1476918453497.pn=
+g" height=3D"1" width=3D"130" style=3D"margin:0px;padding:0px;display:inlin=
+e-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;"> <img=
+ src=3D"https://ea.twimg.com/email/self_serve/media/spacer-1476918453497.pn=
+g" height=3D"1" width=3D"130" style=3D"margin:0px;padding:0px;display:inlin=
+e-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </td>
+<td width=3D"135" height=3D"1" style=3D"padding:0px;margin:0px auto;"> <img=
+ src=3D"https://ea.twimg.com/email/self_serve/media/spacer-1476918453497.pn=
+g" height=3D"1" width=3D"130" style=3D"margin:0px;padding:0px;display:inlin=
+e-block;-ms-interpolation-mode:bicubic;border:none;outline:none;" /> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<section>
+<div id=3D"new-gmail-hack" style=3D"white-space: nowrap; font: 15px courier=
+; line-height: 0; display: none;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+</section>
+</body>
+</html>
+------=_Part_26474176_1808069506.1641701314289--
