@@ -263,9 +263,9 @@
           }
     });
 
-    $("#topTenChartAll").css("width", "100%"),
-    $("#topTenChartMonthly").css("width", "100%"),
-    $("#topTenChartWeekly").css("width", "100%"),
+    $("#topTenChartAll").css("width", "100%");
+    $("#topTenChartMonthly").css("width", "100%");
+    $("#topTenChartWeekly").css("width", "100%");
 
 });
   </script>
