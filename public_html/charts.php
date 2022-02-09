@@ -65,7 +65,7 @@
                         <div class="tab-block content">
                         <div class="columns is-variable is-multiline is-centered">
                             <div class="column is-12">
-                              <table class="table is-fullwidth">
+                              <table class="table is-fullwidth" id="topTenChartAll">
                                 <thead>
                                   <tr>
                                     <th>Rank</th>
@@ -175,6 +175,36 @@
 
   </div>
   <!-- #site-wrap -->
+  <script>
+    $(document).ready(function(){
+    var chartTableAll = $('#topTenChartAll').DataTable({
+          aaSorting: [[1, 'asc']],
+          bPaginate: false,
+          bFilter: false,
+          bInfo: false,
+          bSortable: true,
+          bRetrieve: true,
+          'searching': false,
+          'serverMethod': 'post',
+          'ajax': {
+            'url':'https://www.chriscastle.com/alexa/ars/songs_in_top_ten_all.php'
+          },
+          'columns': [
+              {data: 'rank', type: 'numeric'},
+              {data: 'top_song'},
+              {data: 'bandname'},
+              {data: 'top_song_rating', type: 'numeric' }
+          ],
+          
+          "language": {
+              "emptyTable": "Missing Information...",
+              'loadingRecords': '&nbsp;',
+              'processing': 'Loading... '
+          }
+    });
+
+});
+  </script>
   <script src="assets/js/vendor.min.js?v=1557446391092"></script>
   <script src="assets/js/scripts.min.js?v=1557446391092"></script>
   <script src="assets/js/custom.js?v=1557446391092"></script>
