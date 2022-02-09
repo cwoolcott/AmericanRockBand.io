@@ -333,10 +333,6 @@
                 </div>
               </div>
               <br>
-
-
-
-
               <div class="columns is-variable is-4 is-multiline boxes-style-2">
                 <div class="column is-4" data-aos="">
                   <div class="box-item">
