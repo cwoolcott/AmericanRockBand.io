@@ -389,9 +389,7 @@
                           </span>
                         </a>
                       </div>
-          
                     </div>
-                 
                   </div>
                 </div>
                 <div class="column is-6-desktop is-12-tablet" data-aos="fade">
