@@ -269,7 +269,7 @@
 
 
     
-    setInterval(chartTableAll, 1000);
+    setInterval('$("#topTenChartAll").dataTable().fnDraw()', 5000);
 });
   </script>
 
