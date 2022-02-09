@@ -229,7 +229,6 @@
           }
     });
 
-
     var chartTableAll = $('#topTenChartMonthly').DataTable({
           aaSorting: [[1, 'asc']],
           bPaginate: false,
