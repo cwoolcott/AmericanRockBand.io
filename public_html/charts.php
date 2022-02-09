@@ -175,6 +175,14 @@
 
   </div>
   <!-- #site-wrap -->
+ 
+  <script src="assets/js/vendor.min.js?v=1557446391092"></script>
+  <script src="assets/js/scripts.min.js?v=1557446391092"></script>
+  <script src="assets/js/custom.js?v=1557446391092"></script>
+
+  <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/1.11.3/js/dataTables.bootstrap4.min.js"></script>
+
   <script>
     $(document).ready(function(){
     var chartTableAll = $('#topTenChartAll').DataTable({
@@ -257,9 +265,7 @@
 
 });
   </script>
-  <script src="assets/js/vendor.min.js?v=1557446391092"></script>
-  <script src="assets/js/scripts.min.js?v=1557446391092"></script>
-  <script src="assets/js/custom.js?v=1557446391092"></script>
+
 </body>
 
 </html>
