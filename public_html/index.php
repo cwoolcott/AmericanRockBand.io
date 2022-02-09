@@ -78,6 +78,7 @@
                       </span>
                     </a>
                   </li>
+                  
                   <!-- Top Songs -->
                   <li data-transition="fade" data-thumb="./assets/images/icons/3.png" data-title="The Charts"
                     data-param1="Top Charted Songs in three categories" data-param2="./assets/images/icons/3.png">
