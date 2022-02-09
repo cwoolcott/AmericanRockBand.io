@@ -269,7 +269,9 @@
 
 
     
-    setInterval('$("#topTenChartAll").dataTable().fnDraw()', 5000);
+    setInterval('$("#topTenChartAll").dataTable().fnDraw()', 10000);
+    setInterval('$("#topTenChartWeekly").dataTable().fnDraw()', 10000);
+    setInterval('$("#topTenChartMonthly").dataTable().fnDraw()', 10000);
 });
   </script>
 
