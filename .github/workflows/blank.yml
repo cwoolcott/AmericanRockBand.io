@@ -12,6 +12,6 @@ jobs:
         host: www.americanband.io
         user: ce@americanband.io
         password: ${{ secrets.FTP_PASSWORD }}
-        localDir: "dist"
+        localDir: ""
         remoteDir: "www"
         options: "--delete --asci"
