@@ -87,7 +87,7 @@
                         <div class="tab-block content">
                         <div class="columns is-variable is-multiline is-centered">
                             <div class="column is-12">
-                            <table class="table is-fullwidth">
+                            <table class="table is-fullwidth" id="topTenChartMonthly">
                                 <thead>
                                   <tr>
                                     <th>Rank</th>
@@ -109,7 +109,7 @@
                         <div class="tab-block content">
                         <div class="columns is-variable is-multiline is-centered">
                             <div class="column is-12">
-                            <table class="table is-fullwidth">
+                            <table class="table is-fullwidth" id="topTenChartWeekly">
                                 <thead>
                                   <tr>
                                     <th>Rank</th>
@@ -202,6 +202,61 @@
               'processing': 'Loading... '
           }
     });
+
+    var chartTableAll = $('#topTenChartWeekly').DataTable({
+          aaSorting: [[1, 'asc']],
+          bPaginate: false,
+          bFilter: false,
+          bInfo: false,
+          bSortable: true,
+          bRetrieve: true,
+          'searching': false,
+          'serverMethod': 'post',
+          'ajax': {
+            'url':'https://www.chriscastle.com/alexa/ars/songs_in_top_ten_all.php?chart=weekly'
+          },
+          'columns': [
+              {data: 'rank', type: 'numeric'},
+              {data: 'top_song'},
+              {data: 'bandname'},
+              {data: 'top_song_rating', type: 'numeric' }
+          ],
+          
+          "language": {
+              "emptyTable": "Missing Information...",
+              'loadingRecords': '&nbsp;',
+              'processing': 'Loading... '
+          }
+    });
+
+
+    var chartTableAll = $('#topTenChartMonthly').DataTable({
+          aaSorting: [[1, 'asc']],
+          bPaginate: false,
+          bFilter: false,
+          bInfo: false,
+          bSortable: true,
+          bRetrieve: true,
+          'searching': false,
+          'serverMethod': 'post',
+          'ajax': {
+            'url':'https://www.chriscastle.com/alexa/ars/songs_in_top_ten_all.php?chart=monthly'
+          },
+          'columns': [
+              {data: 'rank', type: 'numeric'},
+              {data: 'top_song'},
+              {data: 'bandname'},
+              {data: 'top_song_rating', type: 'numeric' }
+          ],
+          
+          "language": {
+              "emptyTable": "Missing Information...",
+              'loadingRecords': '&nbsp;',
+              'processing': 'Loading... '
+          }
+    });
+
+
 
 });
   </script>
