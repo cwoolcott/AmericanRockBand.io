@@ -595,13 +595,6 @@
     </div>
     <!-- #content-main-wrap -->
     <?php include_once 'includes/footer.php';?>
-
-
-
-
-
-
-
   </div>
   <!-- #site-wrap -->
   <script src="assets/js/vendor.min.js?v=1557446391092"></script>
