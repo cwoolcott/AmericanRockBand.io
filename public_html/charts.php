@@ -186,7 +186,7 @@
   <script>
     $(document).ready(function(){
     var chartTableAll = $('#topTenChartAll').DataTable({
-          aaSorting: [[1, 'asc']],
+          aaSorting: [[0, 'asc']],
           bPaginate: false,
           bFilter: false,
           bInfo: false,
@@ -212,7 +212,7 @@
     });
 
     var chartTableAll = $('#topTenChartWeekly').DataTable({
-          aaSorting: [[1, 'asc']],
+          aaSorting: [[0, 'asc']],
           bPaginate: false,
           bFilter: false,
           bInfo: false,
@@ -238,7 +238,7 @@
     });
 
     var chartTableAll = $('#topTenChartMonthly').DataTable({
-          aaSorting: [[1, 'asc']],
+          aaSorting: [[0, 'asc']],
           bPaginate: false,
           bFilter: false,
           bInfo: false,
@@ -262,6 +262,10 @@
               'processing': 'Loading... '
           }
     });
+
+    $("#topTenChartAll").css("width", "100%"),
+    $("#topTenChartMonthly").css("width", "100%"),
+    $("#topTenChartWeekly").css("width", "100%"),
 
 });
   </script>
